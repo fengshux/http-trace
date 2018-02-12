@@ -1,11 +1,24 @@
 {
-  "name": "ls",
+  "name": "http-trace",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Trace for http microservice",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "xuxiaoyu",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuxiaoyu2010/http-trace.git"
+  },
+  "keywords": [
+    "http",
+    "microservice",
+    "trace"
+  ],
+  "author": "xuxiaoyu2010@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xuxiaoyu2010/http-trace/issues"
+  },
+  "homepage": "https://github.com/xuxiaoyu2010/http-trace#readme"
 }
